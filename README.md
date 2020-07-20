@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hugomarcelo91@gmail.com)](mailto:hugomarcelo91@gmail.com)
 
 ## Olá 👋, 
-Meu nome é Hugo Marcelo, sou desenvolvedor à 7 anos 👨‍💻 
+Meu nome é Hugo Marcelo e sou desenvolvedor a quase 8 anos 👨‍💻 
 
 - 🔭 Trabalho atualmente com desenvolvimento de sistemas web no front-end com ReactJS e back-end com C# e Node.js. Também faço aplicativos com React Native.
 - 👯 Sou pró-ativo, dedicado, focado e apaixonado em resolver problemas. Prezo sempre trabalhar em equipe cooperando com todos e ajudando da melhor forma possível, com grande satisfação em ensinar e aprender.
