@@ -20,4 +20,4 @@ Meu nome é Hugo Marcelo e sou desenvolvedor a quase 8 anos 👨‍💻
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=hugo-marcelo&show_icons=true">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=hugo-marcelo&show_icons=true&theme=dracula">
