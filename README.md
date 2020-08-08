@@ -7,7 +7,7 @@ Full Stack Developer.
 
 - Trabalho atualmente com desenvolvimento de sistemas web com ReactJS. Também faço aplicativos com React Native.
 - Sou pró-ativo, dedicado, focado e apaixonado em resolver problemas. Prezo sempre trabalhar em equipe cooperando com todos e ajudando da melhor forma possível, com grande satisfação em ensinar e aprender.
-- Estudo atualmente: Typescript, GraphQL e Docker.
+- Estudo atualmente: Typescript, GraphQL e NextJS.
 
 **Linguagens e Ferramentas:**  
 
