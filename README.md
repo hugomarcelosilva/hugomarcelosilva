@@ -21,4 +21,8 @@ Full Stack Developer.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=hugo-marcelo&show_icons=true&theme=dracula">
+<p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hugo-marcelo&show_icons=true&theme=dracula&line_height=27">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-marcelo&hide=css,java,html&theme=dracula">
+</p>
+
