@@ -6,9 +6,9 @@
   [<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:hugomarcelo91@gmail.com)
 </p>
 
-- Currently work with web systems development with ReactJS. I also make apps with React Native.
+- Currently work with web systems development with React and Next.js. I also make apps with React Native.
 - I am proactive, dedicated, focused and passionate about solving problems. I always value working as a team, cooperating with everyone and helping in the best way possible, with great satisfaction in teaching and learning..
-- Currently studying: Typescript, GraphQL and NextJS.
+- Currently studying: GraphQL and TailwindCSS.
 
 <br>
 
