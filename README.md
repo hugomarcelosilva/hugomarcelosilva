@@ -29,8 +29,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=hugomarcelosilva&show_icons=true&theme=dracula&line_height=27">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugomarcelosilva&hide=css,java,html&theme=dracula">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=hugomarcelosilva&show_icons=true&theme=dracula&line_height=27">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugomarcelosilva&hide=java,c#&layout=compact">
 </p>
 
 
