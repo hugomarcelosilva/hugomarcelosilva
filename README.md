@@ -8,7 +8,7 @@
 
 - Currently work with web systems development with React and Next.js. I also make apps with React Native.
 - I am proactive, dedicated, focused and passionate about solving problems. I always value working as a team, cooperating with everyone and helping in the best way possible, with great satisfaction in teaching and learning..
-- Currently studying: GraphQL and TailwindCSS.
+- Currently studying: GraphQL, TailwindCSS and Python.
 
 <br>
 
