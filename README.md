@@ -5,8 +5,8 @@
 ## I´m a passionate developer and love teaching.
 
 - 🔭 I love to solve problems and new technologies.
-- 🌱 I’m currently learning TailwindCSS and Python.
-- 👯 I’m looking to collaborate on the developers community.
+- 🌱 I’m currently learning Specification-Driven Development.
+- 👯 I’m looking to collaborate in the developer community.
 - ⚡ Fun fact: I love crosswords and play guitar.
 
 ### Connect with me:
